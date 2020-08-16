@@ -1,1 +1,1 @@
-eval "$(jenv init -)" >> /Users/tk/.zshrc
+eval "$(jenv init -)" >> /Users/alexokros/.zshrc
