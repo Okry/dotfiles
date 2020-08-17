@@ -53,6 +53,7 @@ this script in `bin/`.
 
 ## programs to install from Apple App Store
 
+- Dato
 - NordVPN
 - Pixelmator
 - Spark Email Client

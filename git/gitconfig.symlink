@@ -34,5 +34,7 @@
 [credential]
 	helper = osxkeychain
 [user]
-	name = Tony Kornmeier
-	email = tony@kornmeier.me
+	name = Alex Okros
+	email = alexanderlokros@gmail.com
+[pull]
+	rebase = false
